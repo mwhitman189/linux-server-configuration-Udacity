@@ -146,3 +146,12 @@ database = 'catalog'`
 #### 1. Restart Apache2:
 * `sudo service apache2 restart`
 #### 2. Visit the web address
+
+---
+## Third Party Resources
+- [StackExchange](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)
+- [TechRepublic](https://www.techrepublic.com/blog/diy-it-guy/diy-a-postgresql-database-server-setup-anyone-can-handle/)
+- [EKBana](https://blog.ekbana.com/deploying-flask-application-using-mod-wsgi-bdf59174a389?gi=9e2c881fd2f5)
+- [DreamHost](https://help.dreamhost.com/hc/en-us/articles/215489338-Installing-and-using-virtualenv-with-Python-2)
+- [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-18-04)
+- [boisalai's Github respository](https://github.com/boisalai/udacity-linux-server-configuration#step_5_1)
